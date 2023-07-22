@@ -11,6 +11,9 @@ const App = () => {
   // console.log(videos)
   console.log(selectedVideo)
 
+
+
+
   return(
     <div>
           <SearchBar  setVideos={setVideos}/> 
